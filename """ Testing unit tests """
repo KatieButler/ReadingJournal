@@ -1,0 +1,8 @@
+""" Testing unit tests """
+
+def print_double(x):
+	"""
+	Multiply input x by two, print result
+	"""
+	print_double(4)
+
